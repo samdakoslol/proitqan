@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+
+Sitemap: https://www.etqanprint.ma/sitemap.xml
